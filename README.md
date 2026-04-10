@@ -60,7 +60,7 @@ Trained on historical IPL data
 Outputs probability instead of just win/loss
 🌐 Live Demo
 
-👉 https://ipl-prediction-project-dtyvr9dfspasoaknqnqntk.streamlit.app/
+👉 https://ipl-prediction-project-1.onrender.com/
 
 🙌 Future Improvements
 Add more advanced models (XGBoost, Deep Learning)
